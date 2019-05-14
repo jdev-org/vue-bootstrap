@@ -18,6 +18,7 @@ _To specify version use this syntax : `npm install bootstrap@4.3.1`_
 1. Install dependancies for bootstrap, boostrap-vue and style loaders:
 ```
 npm install bootstrap bootstrap-vue
+npm i vue-bootstrap-typeahead --save
 npm install --save-dev node-sass sass-loader style-loader
 ```
 
